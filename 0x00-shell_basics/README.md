@@ -6,3 +6,4 @@ executes_current_working_directory
 5-listfilesdigitonly
 6-firstdirectory
 7-movethatfile
+8-firstdelete

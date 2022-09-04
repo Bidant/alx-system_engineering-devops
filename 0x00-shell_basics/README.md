@@ -5,3 +5,4 @@ executes_current_working_directory
 (5) 4-listmorefiles
 5-listfilesdigitonly
 6-firstdirectory
+7-movethatfile

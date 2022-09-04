@@ -13,3 +13,4 @@ executes_current_working_directory
 12-file_type
 14-copy_html
 100-lets_move
+101-clean_emacs

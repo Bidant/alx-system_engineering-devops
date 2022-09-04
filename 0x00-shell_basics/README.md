@@ -3,3 +3,4 @@ executes_current_working_directory
 (3) 2-bring_me_home
 (4) 3-listfiles extensively
 (5) 4-listmorefiles
+5-listfilesdigitonly

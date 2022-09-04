@@ -7,3 +7,4 @@ executes_current_working_directory
 6-firstdirectory
 7-movethatfile
 8-firstdelete
+9-firstdirdeletion

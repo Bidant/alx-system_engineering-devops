@@ -10,3 +10,4 @@ executes_current_working_directory
 9-firstdirdeletion
 10-back
 11-lists
+12-file_type

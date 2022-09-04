@@ -4,3 +4,4 @@ executes_current_working_directory
 (4) 3-listfiles extensively
 (5) 4-listmorefiles
 5-listfilesdigitonly
+6-firstdirectory
